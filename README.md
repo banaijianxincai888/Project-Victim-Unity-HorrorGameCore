@@ -41,4 +41,4 @@ Assets/Scripts/
 ├── UI/            # UI 管理（背包、对话框、任务提示）
 ├── Save/          # 存档系统（分帧读写）
 └── Audio/         # 音频管理（Wwise 事件封装）
-详细技术文档请查阅Doc/Technology.md
+ **[点击阅读：技术架构与实现详解 (Doc/Technology.md)](./Doc/Technology.md)**
