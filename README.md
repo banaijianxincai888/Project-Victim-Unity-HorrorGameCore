@@ -32,6 +32,7 @@
 - **Wwise 内存流加载**：绕过浏览器沙箱限制，使用 `UnityWebRequest` 读取字节流，通过 `GCHandle` 固定内存指针，调用 `LoadBankMemoryCopy` 解决 WebGL 下音频文件无法直接读取的问题。
 
 ## 代码目录结构
+```text
 Assets/Scripts/
 ├── Core/          # 核心框架（单例基类、事件中心）
 ├── Player/        # 玩家系统（FSM、相机、输入、生命）
