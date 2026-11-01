@@ -15,8 +15,10 @@
 ## 游戏预览 (Game Preview)
 
 <div align="center">
-  <img src="https://github.com/banaijianxincai888/Unity-horror-game-code/raw/main/Run.gif" alt="Gameplay 2" width="48%">
-  <img src="https://github.com/banaijianxincai888/Unity-horror-game-code/raw/main/Desk.gif" alt="Gameplay 1" width="48%">
+  <img src="./Run.gif" alt="Gameplay 2" width="48%">
+  <img src="./Desk.gif" alt="Gameplay 1" width="48%">
+  
+  
   <br><br>
   <i>沉浸式夜视仪探索与躲藏</i>
 </div>
