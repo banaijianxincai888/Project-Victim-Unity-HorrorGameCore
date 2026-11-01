@@ -1,7 +1,8 @@
 # 恐怖潜行解谜游戏 (Victim)
 
 > 一款基于 Unity 开发的 3D 第一人称恐怖潜行解谜独立游戏（受Outlast启发）。本仓库包含完整的 C# 客户端源码（不含美术与音频资源）。
->游戏链接:
+>游戏链接:[![Play in Browser](https://img.shields.io/badge/▶_Play_in_Browser-itch.io-FA5C5C?style=for-the-badge&logo=itch.io)](https://bainainaizi.itch.io/victim)
+[![Unity Version](https://img.shields.io/badge/Unity-6000.4.9f1-black?style=for-the-badge&logo=unity)](https://unity.com/)
 
 ## 关于我
 - **求职意向**：Unity 客户端开发实习生
