@@ -17,7 +17,7 @@
 <!-- 【修改建议 1】：在这里上传 2-3 张游戏截图，或者 1 张长条 GIF 动图 -->
 <!-- 强烈建议放一张展示：夜视仪效果、怪物追击、或者物品栏的高质量截图 -->
 <div align="center">
-  <img src="这里填入你的游戏截图链接_1" alt="Gameplay Screenshot" width="48%">
+  <img src="[这里填入你的游戏截图链接_1](https://private-user-images.githubusercontent.com/248310959/691515047-7bdaecd5-b005-4b2b-96c4-b0740e990f48.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTM1NDc0NDMsIm5iZiI6MTc5MzU0NzE0MywicGF0aCI6Ii8yNDgzMTA5NTkvNjkxNTE1MDQ3LTdiZGFlY2Q1LWIwMDUtNGIyYi05NmM0LWIwNzQwZTk5MGY0OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEwMVQxNTMyMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYTcyZjgyNjExNzA3ZTFlOTdjNWI3OWYzZjQ5MzUwNDE2YjNmYWExMmRiZjgzODYxOWZlY2Y0YjIxODgyZjg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.CzPRDkPVEz1DkWToMNRy9Xw-Hjvfop50QOvzFQJNdP4)" alt="Gameplay Screenshot" width="48%">
   <img src="这里填入你的游戏截图链接_2" alt="Gameplay Screenshot" width="48%">
   <br>
   <i>沉浸式夜视仪探索与怪物潜行追踪</i>
