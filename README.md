@@ -15,7 +15,7 @@
 -  **教育背景**：**浙江工业大学** · 工商管理专业 · **大四在校生**。
 -  **技术背景**：出于对游戏开发的极度热爱，**自学 Unity 与 C# 1年**，具备扎实的工程实践能力与源码级排错能力。
 -  **求职意向**：正在积极寻找 **Unity 客户端开发实习生** 岗位（可随时到岗实习，期待在杭州本地发展）。
-- **联系邮箱**：`jx.gamedev@outlook.com` （欢迎任何实习机会或技术交流）
+- **联系邮箱**：`[![Email](https://img.shields.io/badge/Email-jx.gamedev@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:jx.gamedev@outlook.com)
 
 ## 核心技术亮点 (Technical Highlights)
 
